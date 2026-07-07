@@ -1,0 +1,27 @@
+{
+  "identifier" : "Detailing Checklist",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "com.shimondeitel.detailcheck.pro",
+      "localizations" : [
+        {
+          "description" : "Unlock Custom checklist templates with before/after photo pairs",
+          "displayName" : "Detailing Checklist Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.detailcheck.pro",
+      "referenceName" : "Detailing Checklist Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
