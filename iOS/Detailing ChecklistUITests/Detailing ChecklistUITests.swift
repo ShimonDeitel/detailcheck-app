@@ -1,6 +1,6 @@
 import XCTest
 
-final class Detailing ChecklistUITests: XCTestCase {
+final class Detailing_ChecklistUITests: XCTestCase {
     func testAddEntryFlow() {
         let app = XCUIApplication()
         app.launch()
