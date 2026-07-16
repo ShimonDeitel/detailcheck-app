@@ -1,8 +1,8 @@
 import XCTest
-@testable import Detailing Checklist
+@testable import Detailing_Checklist
 
 @MainActor
-final class Detailing ChecklistTests: XCTestCase {
+final class Detailing_ChecklistTests: XCTestCase {
     func testSeedDataBelowFreeLimit() {
         let store = Store()
         XCTAssertLessThan(store.items.count, Store.freeItemLimit)
